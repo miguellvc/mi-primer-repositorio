@@ -11,7 +11,6 @@ finalizando con github modifico liustar para realizar mi ultima modificacion
  	> Marcos Homola.
  	> Tomas Blanco. 
  	> Miguel Perez. 
- 	> Celina Herrero.
  	> Nahuel Romero.
  	> Agustina Chacon. 
  	> Ramiro Muñoz. 
